@@ -23,6 +23,7 @@
 
 # This program says hello and asks for my name.
 # myName and myAge are variables that hold some data
+# Auther : Ramaknt Kumar
 
 print('Hello world!')
 
